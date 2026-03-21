@@ -1,2 +1,2 @@
 # HUST_movie_project
-HUST kỳ 2 năm 2, dự án của Hiếu, Văn
+Các thông tin dự án nằm ở dir docs, file about.md
