@@ -26,3 +26,9 @@
   - Kiến thức còn thiếu, phần thiếu đó ở những nhiệm vụ nào có quan trọng không
   - Với phần kiến thức còn thiếu ghi ra link, tài liệu học tập về nội dung đó mà bản thân tìm được
   - Có thể làm được không, làm được trong bao nhiêu ngày
+### Điều chỉnh 01 (26/3/2026)
+- Chính thức vào phần code AI + Web luôn
+- Nội dung: Chia việc + xác định meeting tiếp theo, 8h chủ nhật 29/3/2026
+### Meeting 02 (29/3/2026)
+- 8h tối
+- Nội dung: Trình bày tiến độ công việc, nếu chưa xong quá 80% thì viết report luôn
